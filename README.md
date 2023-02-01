@@ -1,6 +1,6 @@
 <div align="center">
    <h1>Hi I'm Er MdAtaf👋 </h1>
-   <img src="C:\Users\MOMIN MD ATAF\OneDrive\Pictures\Saved Pictures\github.png">
+   <img src=header_.png>
 
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
